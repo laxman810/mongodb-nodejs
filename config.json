@@ -1,0 +1,3 @@
+{
+    "url": "mongodb://MognoUsername:MongoPassword@localhost:27017/MongoDB"    
+}
